@@ -95,7 +95,7 @@ h4 {
 /* INDEX.HTML */
 
 .hero {
-    background-image: url('/img/hero-image-home.jpg');
+    background-image: url('img/hero-image-home.jpg');
     background-size: cover;
     background-position: center; 
     height: 100vh; 
